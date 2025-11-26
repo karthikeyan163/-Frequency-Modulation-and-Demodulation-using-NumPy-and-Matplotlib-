@@ -33,7 +33,13 @@ __Algorithm:__
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 __Programme:__
+![WhatsApp Image 2025-11-26 at 22 46 42_84e2468c](https://github.com/user-attachments/assets/357a0d54-cdcd-432a-9b7f-ea0570140fbe)
+
 
 __Output:__
 
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/c2c71bdc-d74f-456e-949b-6ccd4c25a91f" />
+
 __Result:__
+
+Thus the Frequency Modulation and Demodulation using NumPy and Matplotlib is verified successfully.
